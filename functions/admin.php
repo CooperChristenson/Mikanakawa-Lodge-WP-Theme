@@ -41,7 +41,7 @@ add_action('wp_dashboard_setup', function() {
 				</h2>';
 		}
 
-		echo '<p>Welcome to the Allen ISD Orchestra WordPress Theme</p>
+		echo '<p>Welcome to the Mikanakawa Lodge WordPress Theme</p>
 			<p>Need help? Contact the development team at:<br/><a href="mailto:cmailto:liturgy.regency.0l@icloud.com">Cooper Christenson</a></p>
 			
 			<p>Installed theme version: <i>'.$installed_version.'</i></p>
