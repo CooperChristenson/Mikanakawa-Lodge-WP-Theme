@@ -1,8 +1,8 @@
-# AISD Orchestra
+# Mikanakawa Wordpress Theme
 
 Welcome to the public repository for the Mikanakawa Lodge WordPress theme. 
 
-![OA West Theme](https://raw.githubusercontent.com/cooperchristenson/aisd-orchestra-wp-theme/main/screenshot.jpg)
+![OA West Theme](https://raw.githubusercontent.com/cooperchristenson/mikanakawa-lodge-wp-theme/main/screenshot.jpg)
 
 
 ## Have an issue?
